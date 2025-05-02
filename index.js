@@ -81,12 +81,12 @@ fetch(url, {
                         display: none;
                         
                         `
-  }, 3000)
+  }, 4000)
 
   //application form appearing after submission
   setTimeout(()=>{
     form.style.display = 'grid'
-  }, 3000)
+  }, 4000)
 }
 
 //submission form will disapper after 3 seconds
